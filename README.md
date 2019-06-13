@@ -1,4 +1,4 @@
-# Introduction aux documents dynamiques
+# Introduction aux documents dynamiques avec R
 
 Formation Santé publique France
 
